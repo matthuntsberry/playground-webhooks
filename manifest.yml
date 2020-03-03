@@ -1,0 +1,5 @@
+---
+applications:
+  - name: playground-webhooks
+    memory: 64M
+    buildpack: sdk-for-nodejs
